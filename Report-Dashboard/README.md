@@ -12,7 +12,7 @@ A business intelligence dashboard created using Power BI to analyze company debt
 ## 📁 Files Included
 - `Debt-Report.pbix` — Power BI dashboard
 - `dashboard.png` — Screenshot of final dashboard
-- `sample-data` — Sample input data
+- `sample-data`ssms.png — Sample input data
 
 ## 🚀 Features
 - Total debt overview with KPIs
